@@ -1,0 +1,11 @@
+﻿id_venda,cliente,cidade,produto,categoria,quantidade,preco,vendedor
+1,Ana,Recife,Notebook,Eletrônicos,1,3500,João
+2,Carlos,Olinda,Mouse,Eletrônicos,2,80,Maria
+3,Beatriz,Recife,Teclado,Eletrônicos,1,150,João
+4,Daniel,Jaboatão,Cadeira,Móveis,1,700,Pedro
+5,Ana,Recife,Mouse,Eletrônicos,1,80,Maria
+6,Carlos,Olinda,Cadeira,Móveis,2,700,Pedro
+7,Fernanda,Recife,Notebook,Eletrônicos,1,3500,João
+8,Daniel,Jaboatão,Teclado,Eletrônicos,2,150,Maria
+9,Beatriz,Recife,Cadeira,Móveis,1,700,Pedro
+10,Fernanda,Olinda,Mouse,Eletrônicos,3,80,Maria
