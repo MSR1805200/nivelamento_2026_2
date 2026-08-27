@@ -1,0 +1,13 @@
+﻿id_cliente,nome,idade,estado,tipo_cliente
+1,Ana,28,PE,Novo
+2,Carlos,35,PB,Recorrente
+3,Beatriz,22,PB,Novo
+4,Daniel,41,PE,Recorrente
+5,Ana,33,RN,Novo
+6,Carlos,29,PE,Recorrente
+7,Fernanda,24,PB,Novo
+8,Daniel,38,RN,Recorrente
+9,Beatriz,26,PE,Novo
+10,Fernanda,31,PB,Recorrente
+11,Lucas,45,RN,Novo
+12,Marina,27,PE,Recorrente
